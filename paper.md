@@ -16,6 +16,7 @@ Today at least 20 cryptoassets are created every day using only NXT, Counterpart
 Though on the market exist plenty of solutions ([25], [26], [27], [28]), trying to solve problems of cryptoproperty evaluation it doesn't seems that any of them successfully achieve this goal as none of them providing the data critical for investment decision: methodology of cap calculation, transactional analytics and health of networks, adoption by people's, user generated ranking system sustainable for sybil attacks and simple to comprehend compliance approach.
 
 Problems of using traditional methodologies such as S&P, Fitch and Moody's applied to cryptoproperty:
+
 1. Are based on reporting systems such as IFRS and GAAP that could not be applied for blockchain based systems.
 2. Are debt based. Existing decentralized entities designed to rely on intrinsic value of underlying token rather than on system's debt. Though some of existing methodologies could be applied for some centralized classes of cryptoassets.
 3. Focus on creditworthiness and don't care about growth capabilities that are so important in existing investment landscape.
