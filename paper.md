@@ -36,6 +36,7 @@ Definitions don't try to achieve legal compliance as author truly believe that (
 Cryptoproperty is a property of digital data [31] belonging of which can be proven by digital signature [32] and existence of which can be proven by independent system. Acceptable synonyms: digital tokens or tokens, internal capital.
 
 For independent systems exist 3 simple requirements:
+
 1. Should be established and uniquely identifiable via Genesis ID.
 2. Should have underlying internal capital - a cryptocurrency responsible for resilience of network consensus.
 3. Core code responsible for network consensus should be open source, buildable and executable for at least one open source operating system.
@@ -47,6 +48,7 @@ These requirements caused by the fact that if this requirements hadn't met you h
 As independent systems are just decentralized databases any kind of arbitrary data could be written in such a way that is possible to register and transfer any kind of property without any restrictions thus forming universe of dependent systems.
 
 For dependent systems exist 3 simple requirements:
+
 1. Should be registered using Independent System and uniquely identifiable via Genesis ID.
 2. Registration protocol should be defined by a code (e.g. protocol markup extension: NXT AE and Monetary System [18], Solidity Standard Library [30]) and/or natural language (protocol specification such as Open Assets protocol [20], AGS [21] or BitAlias [22].
 3. Purpose of registration should be described by a code (smart contracts [17], Ricardian contracts [19]), and/or natural language (e.g. digitally signed shareholders agreement, NatSpec [29], etc.].
@@ -59,6 +61,7 @@ Blockchain and distributed ledger definition will be mentioned further as this d
 ## 3. Cryptoproperty Value Proposition
 
 There is lack of clarity on value proposition of decentralized systems and its product - cryptoproperty. Hence cryptoproperty has characteristics that legacy state-based systems are fail to obtain:
+
 1. Efficiency: (a) don't taxable without owner intention, (b) don't have transactional limits, (c) transactions don't need settlement and reconciliation, (d) transactions are fast: from 5 seconds to 10 minutes depending on underlying technology, (e) tiny transaction fees, (f) don't need real estate for decentralized network operation, (g) no enforced compliance costs.
 2. Transparency: (a) underlying code is fully open source, (b) all operations accounted on a blockchain or consensus ledger since inception and (c) could be accounted forever.
 3. Intelligence: (a) programmable and (b) autonomous, so it could exist by itself and (c) secured by math, not army.
@@ -85,6 +88,7 @@ Miscomprehension risk. Different digital currencies and assets could have very d
 Risks and grow capabilities of cryptoproperty based systems are defined by the following criteria: consensus fault tolerance, CAP theorem balance, cost efficiency, transactional performance, network scalability, decentralization grade, anonymity, strength of cryptography, censorship resistance, self governance or intelligence, computation capabilities, wealth distribution, storage capabilities, operational transparency, implementation quality, incentive structure, distribution algorithm/approach, monetary policy and consensus dependency.
 
 These components are divided into 3 logical groups:
+
 - Computable albeit being expensive: e.g. wealth distribution.
 - Computationally intractable: e.g. cost efficiency
 - Undecidable: e.g. CAP theorem balance
@@ -114,6 +118,7 @@ Detailed specification in [Scoring document](https://github.com/cyberFund/cyberr
 Transparency is the most critical thing in decision making. Developers of decentralized systems both independent or dependent should understand that less transparent system less probability of positive investment decision. Traditional finance is based on quarterly reporting and annual auditing. That doesn't make sense at all for blockchain entities as they report every block with some reorganization probability and don't fit at all for consensus ledgers which state is always final. Thus reporting should be much more frequent, precise and free from necessity to audit.
 
 In order to understand blockchain reporting we should split all data necessary for decision making into 3 groups based on availability principal:
+
 1. Blockchain data. Blockchains itself hardly optimized thus don't store information that is not necessary for consensus and possible to calculate from it. Moreover, diversity of blockchain software and blockchain APIs make hard to run and integrate all of them for any single service. As explained further current blockchains don’t store data critical for decision making.
 2. Calculated data. Even critical information for decision making such as supply of tokens often don't provided by core API, but should be calculated. That fact make initial integration significantly complex. Things got more weird given the fact that more than 10 meta protocols exist only on top of Bitcoin and for every protocol transactional metrics should be reported.
 3. Off-chain data. Decentralized nature of blockchains create opportunities for creating centralized services that lock private keys of users and tracks transactions off-chain. Almost all trade at this point of time happens off-chain. Even with help of projects like Sidechains, Eris/Tendermint, ChainDB, Factom and more situation don't seems change soon. Hence off-chain data is critical for evaluation.
@@ -166,6 +171,7 @@ Goals include (a) gather leading experts in artificial intelligence networks ind
 Initial Expert Committee: TBD
 
 Responsibilities of expert committee:
+
 - Shareholders agreement control & reporting.
 - Development and Marketing investments.
 - Methodology Approval
