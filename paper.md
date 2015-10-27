@@ -108,9 +108,7 @@ Cryptoproperty compliance score. That component of scoring could be objective. C
 
 Cryptoproperty reputation based signals. That component of scoring could not be objective. But we assume that trust based ranking system could be applied. 
 
-Detailed specification in Scoring document [37]
-
-https://github.com/cyberFund/cyberrating/blob/master/scoring.md
+Detailed specification in [Scoring document](https://github.com/cyberFund/cyberrating/blob/master/scoring.md) [37]
 
 ## 7. Blockchain Reporting
 
