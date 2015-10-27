@@ -106,13 +106,11 @@ Rating is a five star system. It include 2 very different buy nature components 
 
 Cryptoproperty compliance score. That component of scoring could be objective. Cryptoproperty Compliance Declaration [66] or CCD serve as inherent component of cyber•Rating and a tool for cryptoproperty designers. CCD should be formulated in a way that make possible to evaluate with simple yes/no statements. For different types and classes of cryptoproperty appropriate compliance could be implemented.
 
-Cryptoproperty reputation based signals. That component of scoring could not be objective.
+Cryptoproperty reputation based signals. That component of scoring could not be objective. But we assume that trust based ranking system could be applied. 
 
-TBD
+Detailed specification in Scoring document [37]
 
-Scoring Coefficients [37]
-
-TBD
+https://github.com/cyberFund/cyberrating/blob/master/scoring.md
 
 ## 7. Blockchain Reporting
 
@@ -223,4 +221,4 @@ We proposed a system of cryptoproperty evaluation. We started from analysis of l
 34. Intelligent agencies
 35. Brainwallet
 36. Distributed Reporting Specification
-37. Scoring Coefficients
+37. https://github.com/cyberFund/cyberrating/blob/master/scoring.md
