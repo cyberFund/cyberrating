@@ -1,9 +1,7 @@
-cyber•Rating: Cryptoproperty Evaluation
+# cyber•Rating: Cryptoproperty Evaluation
 
 Version 0.0.1. Initial Draft
-Dima Starodubcev
-@21xhipster
-cyber•Fund
+Dima Starodubcev, [@21xhipster](https://keybase.io/21xhipster), [cyber•Fund](https://cyber.fund)
 
 Reviewers: Marina Guryeva
 
