@@ -5,7 +5,8 @@ Scoring coefficients depend on a stage of development and associated chaingear t
 
 ## Chaingear
 
-In development
+Scoring coefficients depend on a stage of development and associated chaingear type:
+![chaingear_scoring](chaingear_scoring.png)
 
 ## Blockchain Reporting
 
@@ -39,14 +40,19 @@ Cap scoring:
 - `0.5` score. `Giga` grade if cap is > $1B
 
 Calculation example:
-
+```
 Daily trade volume of bitcoins is `100000`
+
 USD/BTC price is `$300`
+
 Total Supply is `15000000`
+
 Cap is `300 * 15000000` = `$4.5B`
+
 Cap Grade is `Giga` and score is `0.5`
 Daily turnover is `100000 * 300 / 4.5B` = `~0.67%`
 Turnover grade is `High` and score is `0.4`
+```
 
 ## People's Love
 
