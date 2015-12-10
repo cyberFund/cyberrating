@@ -10,98 +10,109 @@ Scoring coefficients depend on a stage of development and associated chaingear t
 
 Scores are awarded for the existence of links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
 
-Site scoring:
+*Site scoring*:
+
 Awarded for the existence of a working official website.
-- 0.15 score. For System at `Project`, `Private`, `Pre-Public` stage of development
-- 0.05 score. For System at `Public` stage of development
+- `0.15` score. For System at `Project`, `Private`, `Pre-Public` stage of development
+- `0.05` score. For System at `Public` stage of development
 
-Community scoring:
+*Community scoring*:
+
 Awarded for the existence of a Forum or Thread on specialized forum (like bitcointalk.org)
-- 0.2 score. For System at `Project`, `Private`, `Pre-Public` stage of development
-- 0.1 score. For `cryptoasset` at `Public` stage of development
-- 0.05 score. For `cryptocurrency` at `Public` stage of development
+- `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
+- `0.10` score. For `cryptoasset` at `Public` stage of development
+- `0.05` score. For `cryptocurrency` at `Public` stage of development
 
-Updates scoring:
+*Updates scoring*:
+
 Awarded for the existence of regular updates about project (RSS of the Blog / Reddit)
-- 0.2 score. For System at `Project`, `Private`, `Pre-Public` stage of development
-- 0.1 score. For `cryptoasset` at `Public` stage of development
-- 0.05 score. For `cryptocurrency` at `Public` stage of development
+- `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
+- `0.10` score. For `cryptoasset` at `Public` stage of development
+- `0.05` score. For `cryptocurrency` at `Public` stage of development
 
-Code scoring:
+*Code scoring*:
+
 Awarded for the existence of a repository at GitHub or BitBucket. 
-- 0.2 score. For System at `Project`, `Private`, `Pre-Public` stage of development
-- 0.2 score. For `cryptoasset` at `Public` stage of development
-- 0.05 score. For `cryptocurrency` at `Public` stage of development
+- `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
+- `0.20` score. For `cryptoasset` at `Public` stage of development
+- `0.05` score. For `cryptocurrency` at `Public` stage of development
 
-Science scoring:
+*Science scoring*:
+
 Awarded for the existence of a whitepaper.
-- 0.15 score. For System at `Project`, `Private`, `Pre-Public` stage of development
-- 0.05 score. For System at `Public` stage of development
+- `0.15` score. For System at `Project`, `Private`, `Pre-Public` stage of development
+- `0.05` score. For System at `Public` stage of development
 
-Knowledge scoring:
+*Knowledge scoring*:
+
 Awarded for the existence of a wiki.
-- 0.15 score. For System at `Project`, `Private`, `Pre-Public` stage of development
-- 0.05 score. For System at `Public` stage of development
+- `0.15` score. For System at `Project`, `Private`, `Pre-Public` stage of development
+- `0.05` score. For System at `Public` stage of development
 
-Buy/Sell ability scoring:
+*Buy/Sell ability scoring*:
+
 Awarded for presence on the stock exchanges.
 `cryptoassets`: 
-- 0.08 score. 1 exchange
-- 0.16 score. 2-3 exchanges
-- 0.24 score. 3-5 exchanges
-- 0.32 score. 6-9 exchanges
-- 0.40 score. 10+ exchanges
+- `0.08` score. 1 exchange
+- `0.16` score. 2-3 exchanges
+- `0.24` score. 3-5 exchanges
+- `0.32` score. 6-9 exchanges
+- `0.40` score. 10+ exchanges
 
 `cryptocurrencies`:
-- 0.06 score. 1 exchange
-- 0.12 score. 2-3 exchanges
-- 0.18 score. 3-5 exchanges
-- 0.24 score. 6-9 exchanges
-- 0.30 score. 10+ exchanges
+- `0.06` score. 1 exchange
+- `0.12` score. 2-3 exchanges
+- `0.18` score. 3-5 exchanges
+- `0.24` score. 6-9 exchanges
+- `0.30` score. 10+ exchanges
 
-Hold scoring:
+*Hold scoring*:
+
 Awarded for ability to operate of tokens with a different wallets.
 `cryptoassets`: 
-- 0.02 score. 1 wallet
-- 0.04 score. 2-3 wallets
-- 0.06 score. 3-5 wallets
-- 0.08 score. 6-9 wallets
-- 0.10 score. 10+ wallets
+- `0.02` score. 1 wallet
+- `0.04` score. 2-3 wallets
+- `0.06` score. 3-5 wallets
+- `0.08` score. 6-9 wallets
+- `0.10` score. 10+ wallets
 
 `cryptocurrencies`:
-- 0.01 score. 1 wallet
-- 0.02 score. 2-3 wallets
-- 0.03 score. 3-5 wallets
-- 0.04 score. 6-9 wallets
-- 0.05 score. 10+ wallets
+- `0.01` score. 1 wallet
+- `0.02` score. 2-3 wallets
+- `0.03` score. 3-5 wallets
+- `0.04` score. 6-9 wallets
+- `0.05` score. 10+ wallets
 
-Analyze scoring:
+*Analyze scoring*:
+
 Awarded for the existence of a blockchain explorers.
 `cryptoassets`: 
-- 0.02 score. 1 block explorer
-- 0.04 score. 2-3 block explorers
-- 0.06 score. 3-5 block explorers
-- 0.08 score. 6-9 block explorers
-- 0.10 score. 10+ block explorers
+- `0.02` score. 1 block explorer
+- `0.04` score. 2-3 block explorers
+- `0.06` score. 3-5 block explorers
+- `0.08` score. 6-9 block explorers
+- `0.10` score. 10+ block explorers
 
 `cryptocurrencies`:
-- 0.01 score. 1 block explorer
-- 0.02 score. 2-3 block explorers
-- 0.03 score. 3-5 block explorers
-- 0.04 score. 6-9 block explorers
-- 0.05 score. 10+ block explorers
+- `0.01` score. 1 block explorer
+- `0.02` score. 2-3 block explorers
+- `0.03` score. 3-5 block explorers
+- `0.04` score. 6-9 block explorers
+- `0.05` score. 10+ block explorers
 
-Earn scoring:
-`cryptocurrencies` awarded for presence at the mining pools or other sources which allows to earn tokens.
-- 0.02 score. 1 mining pool
-- 0.04 score. 2-3 mining pools
-- 0.06 score. 3-5 mining pools
-- 0.08 score. 6-9 mining pools
-- 0.10 score. 10+ mining pools
+*Earn scoring*:
 
-DApps score:
+Awarded for presence at the mining pools or other sources which allows to earn tokens (score availible only for `cryptocurrencies`).
+- `0.02` score. 1 mining pool
+- `0.04` score. 2-3 mining pools
+- `0.06` score. 3-5 mining pools
+- `0.08` score. 6-9 mining pools
+- `0.10` score. 10+ mining pools
+
+*DApps score*:
+
 Awarded for the existence of a DApps builded on the top of a system  
-- 0.1 score
+- `0.1` score
 
 ## Blockchain Reporting
 
