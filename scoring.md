@@ -8,6 +8,7 @@ Scoring coefficients depend on a stage of development and associated chaingear t
 Scoring coefficients depend on a stage of development and associated chaingear type:
 ![chaingear_scoring](chaingear_scoring.png)
 
+<<<<<<< HEAD
 Scores are awarded for the existence of links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
 
 *Site scoring*:
@@ -113,6 +114,15 @@ Awarded for presence at the mining pools or other sources which allows to earn t
 
 Awarded for the existence of a DApps builded on the top of a system  
 - `0.1` score
+=======
+For infrastructure there is the following grade:
+- if number of project is 0 than 0
+- if number of projects is 1 than 20%
+- if number of projects is 2-5 than 50%
+- if number of projects is 6-10 than 80%
+- if number of projects is >10 than 100%
+
+>>>>>>> master
 
 ## Blockchain Reporting
 
