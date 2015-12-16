@@ -103,11 +103,11 @@ Awarded for the existence of a blockchain explorers.
 *Earn scoring*:
 
 Awarded for presence at the mining pools or other sources which allows to earn tokens (score availible only for `cryptocurrencies`).
-- `0.02` score. 1 mining pool
-- `0.04` score. 2-3 mining pools
-- `0.06` score. 3-5 mining pools
-- `0.08` score. 6-9 mining pools
-- `0.10` score. 10+ mining pools
+- `0.02` score. 1 mining pool or other earning apps
+- `0.04` score. 2-3 mining pools or other earning apps
+- `0.06` score. 3-5 mining pools or other earning apps
+- `0.08` score. 6-9 mining pools or other earning apps
+- `0.10` score. 10+ mining pools or other earning apps
 
 *DApps score*:
 
