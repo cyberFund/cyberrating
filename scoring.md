@@ -8,6 +8,14 @@ Scoring coefficients depend on a stage of development and associated chaingear t
 Scoring coefficients depend on a stage of development and associated chaingear type:
 ![chaingear_scoring](chaingear_scoring.png)
 
+For infrastructure there is the following grade:
+- if number of project is 0 than 0
+- if number of projects is 1 than 20%
+- if number of projects is 2-5 than 50%
+- if number of projects is 6-10 than 80%
+- if number of projects is >10 than 100%
+
+
 ## Blockchain Reporting
 
 In development
