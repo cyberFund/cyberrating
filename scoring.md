@@ -8,7 +8,6 @@ Scoring coefficients depend on a stage of development and associated chaingear t
 Scoring coefficients depend on a stage of development and associated chaingear type:
 ![chaingear_scoring](chaingear_scoring.png)
 
-<<<<<<< HEAD
 Scores are awarded for the existence of links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
 
 *Site scoring*:
