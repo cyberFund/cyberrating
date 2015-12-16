@@ -33,7 +33,7 @@ Awarded for the existence of regular updates about project (RSS of the Blog / Re
 
 *Code scoring*:
 
-Awarded for the existence of a repository at GitHub or BitBucket. 
+Awarded for the existence of a repository at GitHub or BitBucket.
 - `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
 - `0.20` score. For `cryptoasset` at `Public` stage of development
 - `0.05` score. For `cryptocurrency` at `Public` stage of development
@@ -53,7 +53,7 @@ Awarded for the existence of a wiki.
 *Buy/Sell ability scoring*:
 
 Awarded for presence on the stock exchanges.
-`cryptoassets`: 
+`cryptoassets`:
 - `0.08` score. 1 exchange
 - `0.16` score. 2-3 exchanges
 - `0.24` score. 3-5 exchanges
@@ -70,7 +70,7 @@ Awarded for presence on the stock exchanges.
 *Hold scoring*:
 
 Awarded for ability to operate of tokens with a different wallets.
-`cryptoassets`: 
+`cryptoassets`:
 - `0.02` score. 1 wallet
 - `0.04` score. 2-3 wallets
 - `0.06` score. 3-5 wallets
@@ -87,7 +87,7 @@ Awarded for ability to operate of tokens with a different wallets.
 *Analyze scoring*:
 
 Awarded for the existence of a blockchain explorers.
-`cryptoassets`: 
+`cryptoassets`:
 - `0.02` score. 1 block explorer
 - `0.04` score. 2-3 block explorers
 - `0.06` score. 3-5 block explorers
@@ -114,15 +114,6 @@ Awarded for presence at the mining pools or other sources which allows to earn t
 
 Awarded for the existence of a DApps builded on the top of a system  
 - `0.1` score
-=======
-For infrastructure there is the following grade:
-- if number of project is 0 than 0
-- if number of projects is 1 than 20%
-- if number of projects is 2-5 than 50%
-- if number of projects is 6-10 than 80%
-- if number of projects is >10 than 100%
-
->>>>>>> master
 
 ## Blockchain Reporting
 
