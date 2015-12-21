@@ -52,13 +52,13 @@ Awarded for the existence of a wiki.
 *Buy/Sell ability scoring*:
 
 Awarded for presence on the stock exchanges.
-`cryptoassets`:
+`cryptoassets` at `Public` stage of development:
 - `0.08` score. 1 exchange
 - `0.20` score. 2-5 exchanges
 - `0.32` score. 6-9 exchanges
 - `0.40` score. 10+ exchanges
 
-`cryptocurrencies`:
+`cryptocurrencies` at `Public` stage of development:
 - `0.06` score. 1 exchange
 - `0.15` score. 2-5 exchanges
 - `0.24` score. 6-9 exchanges
@@ -67,13 +67,13 @@ Awarded for presence on the stock exchanges.
 *Hold scoring*:
 
 Awarded for ability to operate of tokens with a different wallets.
-`cryptoassets`:
+`cryptoassets` at `Public` stage of development:
 - `0.02` score. 1 wallet
 - `0.05` score. 2-5 wallets
 - `0.08` score. 6-9 wallets
 - `0.10` score. 10+ wallets
 
-`cryptocurrencies`:
+`cryptocurrencies` at `Public` stage of development:
 - `0.01` score. 1 wallet
 - `0.025` score. 2-5 wallets
 - `0.04` score. 6-9 wallets
@@ -82,13 +82,13 @@ Awarded for ability to operate of tokens with a different wallets.
 *Analyze scoring*:
 
 Awarded for the existence of a blockchain explorers.
-`cryptoassets`:
+`cryptoassets` at `Public` stage of development:
 - `0.02` score. 1 block explorer
 - `0.05` score. 2-5 block explorers
 - `0.08` score. 6-9 block explorers
 - `0.10` score. 10+ block explorers
 
-`cryptocurrencies`:
+`cryptocurrencies` at `Public` stage of development:
 - `0.01` score. 1 block explorer
 - `0.025` score. 2-5 block explorers
 - `0.04` score. 6-9 block explorers
@@ -96,7 +96,7 @@ Awarded for the existence of a blockchain explorers.
 
 *Earn scoring*:
 
-Awarded for presence at the mining pools or other sources which allows to earn tokens (score availible only for `cryptocurrencies`).
+Awarded for presence at the mining pools or other sources which allows to earn tokens (score availible only for `cryptocurrencies` at `Public` stage of development).
 - `0.02` score. 1 mining pool or other earning apps
 - `0.04` score. 2-5 mining pools or other earning apps
 - `0.08` score. 6-9 mining pools or other earning apps
