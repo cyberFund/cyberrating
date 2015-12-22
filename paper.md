@@ -1,4 +1,4 @@
-# cyber•Rating: Decentralized Cryptoproperty Evaluation
+# cyber•Rating: Cryptoproperty Evaluation
 
 Version 0.0.2.
 
@@ -100,15 +100,15 @@ Thus we can state that exhausted and objective valuation is impossible to achiev
 
 cyber•Fund's mission is to make digital investments comprehensible, accessible, easy and safe. The logic of an objective part stems from this requirements and initially include 5 evaluated components:
 
-1. Compliance Score. Compound metric reflecting Cryptoproperty Compliance Declaration. Is a set of simple yes/no statements that are necessary for existence and growth of cryptoproperty.
+1. Compliance Score. Compound metric reflecting availability of mandatory and recomended infrustructure. Is a set of simple yes/no statements.
 2. Blockchain Reporting Score. Compound metric that show quality of compliance with Decentralized Reporting Standard.
 3. Weighted Liquidity Score. Daily turnover grade is evaluated against market cap grade.
 4. Interoperability Score. Reflect support of universal blockchain libraries.
 5. Growth Rate Score. Scoring of compound monthly growth rate. Eventually the most important metric that show return on investments. Is not used in proof-of-concept implementation and is a subject to further research.
 
-Subjective part is straightforward and based on simple metric that reflect how people love a given cryptoproperty. In technological entrepreneurship exist a quote: "Make what people love". So we propose a simple way to define what people love. To solve this we need to propose a system of community generated scoring (=>7) and (=>8) define reporting system to support due diligence by a community.
+Subjective part is straightforward and based on simple metric that reflect how people love a given cryptoproperty. In technological entrepreneurship exist a quote: "Make what people love". So we propose a simple way to define what people love. To solve this we need to propose a system of community generated scoring (=>7) and define reporting system (=>8) to support due diligence by a community.
 
-Calculation specification in appendix [Scoring](https://github.com/cyberFund/cyberrating/blob/master/scoring.md) is used for proof-of-concept [25].
+Calculation specification in [Appendix A. Scoring](https://github.com/cyberFund/cyberrating/blob/master/scoring.md). For a purpose of proof-of-concept centralized community generated scoring of cyber•Fund app has been used[25].
 
 To solve a problem of objective criteria definition and scoring weights between components we propose self governance system that enable to define them on a consensus level of a proposed cyber•Fund investment protocol (=>13).
 
@@ -128,10 +128,11 @@ Good understanding of lifecycle stage is a key to better understand potential ri
 We propose to distinguish independent and dependent systems. Every type should have different score wieghts. That stems from the fact that this types of systems have different underlying risks as dependent system inherit consensus properties of a system or systems it depends on, but independent system inherent it properties from underlying consensus logic. Also independent systems should have physical storage and computation network, but dependent system could be build virtually on top of such network. These two tier architecture allow simplified due diligence for investors and easiness to use this abstraction layer for developers. Good analogy: State based legal system with underlying currency and organizations that use that legal system with underlying assets. Existing rating agencies distinguish this types of organizations also.
 
 ## 7. Community Generated Scoring
+
 Crowd technologies prove its efficiency in order to solve complicated problems. We propose to evaluate cryptoproperty using community of investors. The following 3 approaches could be implemented in order to calculate a score that is resistant to sybil attacks:
 
 1. One account one vote. Approach require costs per registering account in order to make a rating system resistant to sybil attacks.
-2. Votes weighted by reputation token. Approach require massive Augur[26] like initial distribution to make it work.
+2. Votes weighted by reputation token. Approach require massive Augur like [26] initial distribution to make it work.
 3. Weighted by share in economy. Bulletproof approach though it require complicated implementation as addresses and it's balances should be proven for every user for every blockchain.
 
 In our proof-of-concept implementation we use the first approach based on twitter accounts in order to minimize possible sybil attacks and it shows interesting results [25]. In a first version of cyber•Fund protocol the first approach will be implemented also using blockchain registered accounts. Votes could be positive and negative. A scoring calculating is a topic for a future research as well as cyber•Fund protocol is out of this paper scope and will be defined in the following papers.
@@ -187,21 +188,17 @@ This parameters are necessary for understanding how network operate. Analyzing i
 In order to define reporting structure we represent a domain of cryptoproperty as a simple graph there edges are systems and vertexes are exchange ratios.
 ![system_graph](system_graph.png)
 
-Availability of such reporting in machine readable format is significant part of cryptoproperty evaluation. Decentralized Reporting Specification or DRS is stick to semantics versioning and inherent component of cyber•Rating.
+Availability of such reporting in machine readable format is significant part of cryptoproperty evaluation. Decentralized Reporting Specification [Appendix B] or DRS is stick to semantics versioning and inherent component of cyber•Rating.
 
 ## 10. Self-governance
 
-Responsibilities of expert committee:
+We propose a system there all critical parameters will be defined by a consensus of reputation token holders:
 
-- Shareholders agreement control & reporting.
-- Development and Marketing investments.
-- Methodology Approval
-- Define Due diligence process and requirements.
-- Approval of Cryptoproperty Compliance Declaration
-- Approval of Distributed Reporting Specification
 - Approval of Scoring Coefficients
+- Hard forks with implementation of cyber•Fund Improvemnt Proposals
+- Other important variable such as transaction fee per vote, sugesting cryptoproperty for review, etc.
 
-Process. All development is open source and happens in [cyber•Rating repository](https://github.com/cyberFund/cyberRating). There is [Board of Development](https://waffle.io/cyberFund/cyberRating).
+In the following paper we define mentined about cyber•Fund investment protocol and technical implementation details.
 
 ## 11. Conclusion
 
@@ -242,7 +239,5 @@ systems" http://www.ofnumbers.com/wp-content/uploads/2015/04/Permissioned-distri
 29. [TLSnotary - a mechanism for independently
 audited https sessions](https://tlsnotary.org/TLSNotary.pdf)
 
-
-- cyber•Fund: Decentralized investment platform
-- Cryptoproperty Compliance Declaration
-- Decentralized Reporting Specification
+[Appendix A. Scoring.](https://github.com/cyberFund/cyberrating/blob/master/scoring.md)
+[Appendix B. Decentralized Reporting Specification.]((https://github.com/cyberFund/cyberrating/blob/master/scoring.md))

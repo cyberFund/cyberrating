@@ -1,19 +1,16 @@
 # Scoring Coefficients
 
-Scoring coefficients depend on a stage of development and associated chaingear type. Full overview:
+Scoring coefficients depend on a stage of development and associated cryptoproperty type. Full overview:
+
 ![scoring_table](scoring.png)
 
-## Chaingear
+## CS. Compliance Score
 
-Scoring coefficients depend on a stage of development and associated chaingear type:
-![chaingear_scoring](chaingear_scoring.png)
-
-Scores are awarded for the existence of links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
-
+Scores are awarded for the existence of working links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
 
 *Site scoring*:
 
-Awarded for the existence of a working official website.
+Awarded for the existence of a official website or sites.
 - `0.15` score. For System at `Project`, `Private`, `Pre-Public` stage of development
 - `0.05` score. For System at `Public` stage of development
 
@@ -26,14 +23,14 @@ Awarded for the existence of a Forum or Thread on specialized forum (like bitcoi
 
 *Updates scoring*:
 
-Awarded for the existence of regular updates about project (RSS from the Blog / Reddit / tagged Media)
+Awarded for the existence of regular updates about a project (RSS from the Blog / Reddit / tagged Media)
 - `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
 - `0.10` score. For `cryptoasset` at `Public` stage of development
 - `0.05` score. For `cryptocurrency` at `Public` stage of development
 
 *Code scoring*:
 
-Awarded for the existence of a repository at GitHub or BitBucket.
+Awarded for the existence of at least one repository on GitHub or BitBucket.
 - `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
 - `0.20` score. For `cryptoasset` at `Public` stage of development
 - `0.05` score. For `cryptocurrency` at `Public` stage of development
@@ -46,13 +43,13 @@ Awarded for the existence of a whitepaper.
 
 *Knowledge scoring*:
 
-Awarded for the existence of a wiki.
+Awarded for the existence of a communty generated knowledge (wiki).
 - `0.15` score. For System at `Project`, `Private`, `Pre-Public` stage of development
 - `0.05` score. For System at `Public` stage of development
 
 *Buy/Sell ability scoring*:
 
-Awarded for presence on the stock exchanges.
+Awarded for availability on a stock exchanges.
 `cryptoassets`:
 - `0.08` score. 1 exchange
 - `0.16` score. 2-3 exchanges
@@ -86,7 +83,7 @@ Awarded for ability to operate of tokens with a different wallets.
 
 *Analyze scoring*:
 
-Awarded for the existence of a blockchain explorers.
+Awarded for the availability of analytic tools.
 `cryptoassets`:
 - `0.02` score. 1 block explorer
 - `0.04` score. 2-3 block explorers
@@ -103,30 +100,40 @@ Awarded for the existence of a blockchain explorers.
 
 *Earn scoring*:
 
-Awarded for presence at the mining pools or other sources which allows to earn tokens (score availible only for `cryptocurrencies`).
+Awarded for presence at the mining pools or other sources which allows to earn tokens.
+
+`cryptocurrencies`:
 - `0.02` score. 1 mining pool
 - `0.04` score. 2-3 mining pools
 - `0.06` score. 3-5 mining pools
 - `0.08` score. 6-9 mining pools
 - `0.10` score. 10+ mining pools
 
-*DApps score*:
+`cryptoassets`:
+Not relevant yet
+
+*Internal Economy*:
 
 Awarded for the existence of a DApps builded on the top of a system  
+
+`cryptocurrencies`:
 - `0.1` score
 
-## Blockchain Reporting
+`cryptoassets`:
+Not relevant yet
+
+## BR. Blockchain Reporting Score
 
 In development
 
-## Interoperability
+## IP. Interoperability Score
 
-Ease of integration is evaluated. At this point of time we evaluate only integration with library that allow crosschain update of balances (trusted). In a future we are going to extend it with emerging libs.
+Ease of integration is evaluated. At this point in time we evaluate only integration with Quantum library that allow trusted update of balances across multiple chains. In a future we are going to extend it with an emerging libs.
 
 Scoring:
 - 0.5 score. If integration with [Quantum library](https://github.com/cyberFund/quantum) is `true`
 
-## Weighted Liquidity
+## WL. Weighted Liquidity Score
 
 Daily turnover grade is evaluated against market cap grade.
 
@@ -161,9 +168,9 @@ Daily turnover is `100000 * 300 / 4.5B` = `~0.67%`
 Turnover grade is `High` and score is `0.4`
 ```
 
-## People's Love
+## LV. People's Love Score
 
-At this point of time we use simple centralized metrics to calculate people's love. cyber•Fund have a mechanism of starring systems that allow simplified evaluation. Eventually we want to develop rating system that don't rely on centralized third parties, but now there is no better alternative exist.
+At this point in time we use simple centralized metrics to calculate people's love. cyber•Fund have a mechanism of starring systems that allow simplified evaluation. Eventually we'll develop rating system that don't rely on centralized third parties.
 
 Scoring:
 To calculate a score we use a ratio between quantity of stars of system we evaluate and quantity of stars of the most starred system. For the most starred system a score is always max.
