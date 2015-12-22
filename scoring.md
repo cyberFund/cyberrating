@@ -6,7 +6,7 @@ Scoring coefficients depend on a stage of development and associated cryptoprope
 
 ## CS. Compliance Score
 
-Scores are awarded for the existence of working links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
+Scores are awarded for the existence of links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear#links) repository
 
 *Site scoring*:
 
@@ -49,8 +49,8 @@ Awarded for the existence of a communty generated knowledge (wiki).
 
 *Buy/Sell ability scoring*:
 
-Awarded for availability on a stock exchanges.
-`cryptoassets`: at `Public` stage of development:
+Awarded for presence on the stock exchanges.
+`cryptoassets` at `Public` stage of development:
 
 - `0.08` score. 1 exchange
 - `0.20` score. 2-5 exchanges
@@ -80,8 +80,8 @@ Awarded for ability to operate of tokens with a different wallets.
 
 *Analyze scoring*:
 
-Awarded for the availability of analytic tools.
-`cryptoassets`:
+Awarded for the existence of a blockchain explorers.
+`cryptoassets` at `Public` stage of development:
 
 - `0.02` score. 1 block explorer
 - `0.05` score. 2-5 block explorers
@@ -96,14 +96,11 @@ Awarded for the availability of analytic tools.
 
 *Earn scoring*:
 
-Awarded for presence at the mining pools or other sources which allows to earn tokens.
-
-`cryptocurrencies`:
-- `0.02` score. 1 mining pool
-- `0.04` score. 2-3 mining pools
-- `0.06` score. 3-5 mining pools
-- `0.08` score. 6-9 mining pools
-- `0.10` score. 10+ mining pools
+Awarded for presence at the mining pools or other sources which allows to earn tokens (score availible only for `cryptocurrencies` at `Public` stage of development).
+- `0.02` score. 1 mining pool or other earning apps
+- `0.04` score. 2-5 mining pools or other earning apps
+- `0.08` score. 6-9 mining pools or other earning apps
+- `0.10` score. 10+ mining pools or other earning apps
 
 `cryptoassets`:
 Not relevant yet
