@@ -51,33 +51,30 @@ Awarded for the existence of a communty generated knowledge (wiki).
 
 Awarded for availability on a stock exchanges.
 `cryptoassets`:
+
 - `0.08` score. 1 exchange
-- `0.16` score. 2-3 exchanges
-- `0.24` score. 3-5 exchanges
+- `0.20` score. 2-5 exchanges
 - `0.32` score. 6-9 exchanges
 - `0.40` score. 10+ exchanges
 
-`cryptocurrencies`:
+`cryptocurrencies` at `Public` stage of development:
 - `0.06` score. 1 exchange
-- `0.12` score. 2-3 exchanges
-- `0.18` score. 3-5 exchanges
+- `0.15` score. 2-5 exchanges
 - `0.24` score. 6-9 exchanges
 - `0.30` score. 10+ exchanges
 
 *Hold scoring*:
 
 Awarded for ability to operate of tokens with a different wallets.
-`cryptoassets`:
+`cryptoassets` at `Public` stage of development:
 - `0.02` score. 1 wallet
-- `0.04` score. 2-3 wallets
-- `0.06` score. 3-5 wallets
+- `0.05` score. 2-5 wallets
 - `0.08` score. 6-9 wallets
 - `0.10` score. 10+ wallets
 
-`cryptocurrencies`:
+`cryptocurrencies` at `Public` stage of development:
 - `0.01` score. 1 wallet
-- `0.02` score. 2-3 wallets
-- `0.03` score. 3-5 wallets
+- `0.025` score. 2-5 wallets
 - `0.04` score. 6-9 wallets
 - `0.05` score. 10+ wallets
 
@@ -85,16 +82,15 @@ Awarded for ability to operate of tokens with a different wallets.
 
 Awarded for the availability of analytic tools.
 `cryptoassets`:
+
 - `0.02` score. 1 block explorer
-- `0.04` score. 2-3 block explorers
-- `0.06` score. 3-5 block explorers
+- `0.05` score. 2-5 block explorers
 - `0.08` score. 6-9 block explorers
 - `0.10` score. 10+ block explorers
 
-`cryptocurrencies`:
+`cryptocurrencies` at `Public` stage of development:
 - `0.01` score. 1 block explorer
-- `0.02` score. 2-3 block explorers
-- `0.03` score. 3-5 block explorers
+- `0.025` score. 2-5 block explorers
 - `0.04` score. 6-9 block explorers
 - `0.05` score. 10+ block explorers
 
