@@ -1,6 +1,6 @@
 # Scoring Coefficients
 
-Scoring coefficients depend on a stage of development and associated chaingear type:
+Scoring coefficients depend on a stage of development and associated chaingear type. Full overview:
 ![scoring_table](scoring.png)
 
 ## Chaingear
@@ -8,8 +8,8 @@ Scoring coefficients depend on a stage of development and associated chaingear t
 Scoring coefficients depend on a stage of development and associated chaingear type:
 ![chaingear_scoring](chaingear_scoring.png)
 
-<<<<<<< HEAD
 Scores are awarded for the existence of links of the appropriate type in the [ChainGear](https://github.com/cyberFund/chaingear) repository
+
 
 *Site scoring*:
 
@@ -26,7 +26,7 @@ Awarded for the existence of a Forum or Thread on specialized forum (like bitcoi
 
 *Updates scoring*:
 
-Awarded for the existence of regular updates about project (RSS of the Blog / Reddit)
+Awarded for the existence of regular updates about project (RSS from the Blog / Reddit / tagged Media)
 - `0.20` score. For System at `Project`, `Private`, `Pre-Public` stage of development
 - `0.10` score. For `cryptoasset` at `Public` stage of development
 - `0.05` score. For `cryptocurrency` at `Public` stage of development
@@ -119,7 +119,7 @@ Awarded for the existence of a DApps builded on the top of a system
 
 In development
 
-## Automation
+## Interoperability
 
 Ease of integration is evaluated. At this point of time we evaluate only integration with library that allow crosschain update of balances (trusted). In a future we are going to extend it with emerging libs.
 
