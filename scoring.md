@@ -50,7 +50,7 @@ Awarded for the existence of a communty generated knowledge (wiki).
 *Buy/Sell ability scoring*:
 
 Awarded for availability on a stock exchanges.
-`cryptoassets`:
+`cryptoassets`: at `Public` stage of development:
 
 - `0.08` score. 1 exchange
 - `0.20` score. 2-5 exchanges
