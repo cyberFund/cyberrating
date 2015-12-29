@@ -1,4 +1,4 @@
-# Decentralized Reporting Specification Draft
+# Decentralized Reporting Standard Draft
 
 A work in progress. Feedback appriciated.
 
