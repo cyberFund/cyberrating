@@ -1,4 +1,3 @@
-Initial v 0.0.1 of a paper: 
 Current version of paper is in [Google Docs](https://docs.google.com/document/d/1Vz-yS9W-l-Wdqbw3n0SFwXyYFv0Xo-F4i8NbXQvGHxg/edit#heading=h.35nkun2)
 After discussion it will be moved here back :-)
 
