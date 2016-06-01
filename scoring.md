@@ -136,19 +136,19 @@ Daily turnover grade is evaluated against market cap grade.
 
 Turnover scoring:
 - `0` score. `Illiquid` grade if daily turnover is 0%
-- `0.1` score. `Very Low` grade if daily turnover is <= 0.01%
-- `0.2` score. `Low` grade if daily turnover is >0.01% and <= 0.1%
-- `0.3` score. `Normal` grade if daily turnover is >0.1% and <= 0.5%
-- `0.4` score. `High` grade if daily turnover is >0.5% and <= 2%
-- `0.5` score. `Very High` grade if daily turnover is >2%
+- `0.2` score. `Very Low` grade if daily turnover is <= 0.01%
+- `0.4` score. `Low` grade if daily turnover is >0.01% and <= 0.1%
+- `0.6` score. `Normal` grade if daily turnover is >0.1% and <= 0.5%
+- `0.8` score. `High` grade if daily turnover is >0.5% and <= 2%
+- `1` score. `Very High` grade if daily turnover is >2%
 
 Cap scoring:
 - `0` score. `Pico` grade if cap is <= $10k
-- `0.1` score. `Nano` grade if cap is <= $100k
-- `0.2` score. `Micro` grade if cap is <= $1M
-- `0.3` score. `Kilo` grade if cap is <= $10M
-- `0.4` score. `Mega` grade if cap is <= $1B
-- `0.5` score. `Giga` grade if cap is > $1B
+- `0.2` score. `Nano` grade if cap is <= $100k
+- `0.4` score. `Micro` grade if cap is <= $1M
+- `0.6` score. `Kilo` grade if cap is <= $10M
+- `0.8` score. `Mega` grade if cap is <= $1B
+- `1` score. `Giga` grade if cap is > $1B
 
 Calculation example:
 ```
@@ -160,9 +160,10 @@ Total Supply is `15000000`
 
 Cap is `300 * 15000000` = `$4.5B`
 
-Cap Grade is `Giga` and score is `0.5`
+Cap Grade is `Giga` and score is `1`
 Daily turnover is `100000 * 300 / 4.5B` = `~0.67%`
-Turnover grade is `High` and score is `0.4`
+Turnover grade is `High` and score is `0.8` 
+Total score is `0.8* 1 = 0.8`
 ```
 
 ## LV. People's Love Score
